@@ -1,0 +1,22 @@
+* {
+  margin: 20;
+  box-sizing: border-box;
+}
+body {
+ background: linear-gradient( 180deg, rgb(82, 23, 245),  rgb(4, 110, 39));
+}
+body {
+  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  color: rgb(240, 234, 234);
+}
+fieldset {
+  border: 5px solid rgb(113, 92, 233);
+}
+button {
+  background: rgb(12, 0, 0);
+  color: rgb(216, 216, 240);
+  padding: .8rem;
+  
+}
+
