@@ -17,6 +17,15 @@ button {
   background: rgb(12, 0, 0);
   color: rgb(216, 216, 240);
   padding: .8rem;
+  margin: 5px;
+  position: relative;
+  display: inline-block;
+  border-radius: 5px;
+  box-shadow: 0 1px 2 px 0 rgba(0,0,0,0.1);
+  transition: all 0.6s;
+  }
+  button:hover {
+    transform:  scale(1.20, 1.20);
+  }
   
-}
 
