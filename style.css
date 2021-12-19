@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 body {
- background: linear-gradient( 180deg, rgb(82, 23, 245),  rgb(4, 110, 39));
+ background: linear-gradient( 180deg, rgb(145, 108, 247),  rgb(175, 223, 191));
 }
 body {
   font-family: 'Lato', sans-serif;
@@ -11,7 +11,7 @@ body {
   color: rgb(240, 234, 234);
 }
 fieldset {
-  border: 5px solid rgb(113, 92, 233);
+  border: 5px solid rgb(214, 212, 226);
 }
 button {
   background: rgb(12, 0, 0);
